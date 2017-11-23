@@ -107,7 +107,6 @@ function template(title, item) {
     return template
 }
 
-
 /* 트위터 링크 존재 여부 판단 함수 */
 function setHref(href) {
     if (href != 'null') return 'href=' + href
