@@ -6,7 +6,7 @@
 
 ## 제작 동기
 
-- 한이음 프로젝트에서 크롤링을 주제로 아이디어를 고심하던 중 여러 서비스에서 필요 데이터를 모아 종합적으로 제공하는 서비스를 구현하기로 합의하고 팀원들과 함께 Node.js 기반 위키워드 프로젝트를 진행. 
+- 한이음 프로젝트에서 크롤링을 주제로 아이디어를 고심하던 중 여러 서비스에서 필요 데이터를 모아 종합적으로 제공하는 서비스를 구현하기로 결정하고 Node.js 기반 위키워드 프로젝트를 진행. 
 <br/><br/>
 
 ## UI
@@ -45,16 +45,3 @@
 ```
  npm start (forever) or npm test (nodemon)
 ```
-
-## 제작자
-- [윤태영](https://github.com/yung6699) ( Back-end 개발 및 Server 구축)
-- [진영균](https://github.com/ywnwalone) ( Front-end 개발 및 UI 디자인 )
-- [조용진](https://github.com/drake-jin) ( DB 설계, 구조 설계 )
-- [최명순](https://github.com/reason1241) ( Back-end 개발 )
-- [박상언](https://github.com/Caicell) ( 팀장, 프로젝트 관리 )
-- [김학수](https://github.com/haksuuuuuu) ( UI 디자인 )
-
-
-
-
-
